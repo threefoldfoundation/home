@@ -20,9 +20,7 @@ to check progress on all our websites & wiki's see kanban:
 - https://github.com/threefoldfoundation/info_foundation
 - https://github.com/threefoldfoundation/info_token
 - https://github.com/threefoldfoundation/info_grid
-
 - https://github.com/threefoldfoundation/info_fund
 - https://github.com/threefoldfoundation/info_love
 - https://github.com/threefoldfoundation/info_tech
-
 - https://github.com/threefoldfoundation/info_mazraa
