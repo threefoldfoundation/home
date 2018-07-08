@@ -7,9 +7,6 @@ To check progress on all our websites & wiki's see kanban:
 ### Active websites
 
 - https://github.com/threefoldfoundation/www_threefold
-- https://github.com/threefoldfoundation/www_threefold_old
-- https://github.com/threefoldfoundation/www_grid
-- https://github.com/threefoldfoundation/www_tokens
 - https://github.com/threefoldfoundation/www_radar
 
 
