@@ -3,6 +3,7 @@ All requests for changes are on the issues in the following repo's
 To check progress on all our websites & wiki's see kanban:
 
 - https://waffle.io/threefoldfoundation/home
+- [to see the one which we are working on right now click here](https://waffle.io/threefoldfoundation/home?milestone=1.0.1,none)
 
 ### Active websites
 
