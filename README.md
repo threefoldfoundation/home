@@ -1,4 +1,16 @@
-All requests for changes are on the issues in the following repo's
+
+# welcome to our github for the ThreeFold Foundation
+
+we believe that content is like a product and as such we have chosen to use Github to work on all our content.
+All our repo's are open and opensource and you can contribute and leave issues so we can constantly improve.
+
+## Planned Milestones
+
+- 1.0.1: mid aug
+- 1.1.0: end aug, major rework of our content to be consistent will all our activities
+- 1.1.1: mid sept, mainly bugfix release 
+
+## Websites Wiki's
 
 To check progress on all our websites & wiki's see kanban:
 
