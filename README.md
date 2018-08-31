@@ -6,9 +6,9 @@ All our repo's are open and opensource and you can contribute and leave issues s
 
 ## Planned Milestones
 
-- 1.0.1: mid aug
-- 1.1.0: end aug, major rework of our content to be consistent will all our activities
-- 1.1.1: mid sept, mainly bugfix release 
+- 1.0.1: week 1 sept
+- 1.0.2: week 2 sept
+- 1.1.0: end sept
 
 ## Websites Wiki's
 
@@ -16,16 +16,13 @@ To check progress on all our websites & wiki's see kanban:
 
 - https://waffle.io/threefoldfoundation/home
 - [to see the one which we are working on right now click here](https://waffle.io/threefoldfoundation/home?milestone=1.0.1,none)
+- [issues 1.0.1 and issues without milestone](https://waffle.io/threefoldfoundation/home?milestone=1.0.1,none)
+
 
 ### Active websites
 
 - https://github.com/threefoldfoundation/www_foundation
 - https://github.com/threefoldfoundation/www_radar
-
-
-### Future websites
-
-- https://github.com/threefoldfoundation/www_impact
 
 ### Active wiki pages
 
@@ -33,6 +30,9 @@ To check progress on all our websites & wiki's see kanban:
 - https://github.com/threefoldfoundation/info_token
 - https://github.com/threefoldfoundation/info_grid
 
+### Future websites
+
+- https://github.com/threefoldfoundation/www_impact
 
 ### Future wiki page
 
