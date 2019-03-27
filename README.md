@@ -38,23 +38,8 @@ To check progress on all our websites & wiki's see kanban:
 
 - https://github.com/threefoldfoundation/www_impact
 
-### related projects
+### ThreeFold Ecosystem and Related projects
 
-- https://github.com/vedaonline 
-- https://github.com/BetterToken & https://bettertoken.shop/ (cooperative in Belgium for TF)
-- https://enertia.io/ & https://github.com/enertia-io
-- TODO: mazraa
-- TODO: bulk storage project (will come)
-- TODO: 3bot project (will come)
-- TODO: freeflowpages project (will come)
-- TODO: freeflowtokens project (will come)
-- TODO: decentralized zoom project (will come)
-- TODO: nbh digital (will come)
+http://ecosystem.threefold.me
 
-### Future wiki page
-
-- https://github.com/threefoldfoundation/info_mazraa
-- https://github.com/threefoldfoundation/info_love
-- https://github.com/threefoldfoundation/info_tech
-- https://github.com/threefoldfoundation/info_impact
 
