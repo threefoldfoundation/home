@@ -6,17 +6,11 @@ All our repo's are open and opensource and you can contribute and leave issues s
 
 ## Planned Milestones
 
-- 1.0.7: march 2018
-- 1.0.8: april 2018
+- TODO
 
 ## Websites Wiki's
 
-To check progress on all our websites & wiki's see kanban:
-
-- https://waffle.io/threefoldfoundation/home
-- [to see the one which we are working on right now click here](https://waffle.io/threefoldfoundation/home?milestone=1.0.7,none)
-- [issues without milestone](https://waffle.io/threefoldfoundation/home?milestone=none)
-
+- ...
 
 ### Active websites
 
@@ -42,4 +36,7 @@ To check progress on all our websites & wiki's see kanban:
 
 http://ecosystem.threefold.me
 
+## how do we work together
+
+- see https://github.com/threefoldtech/home/tree/master/contribution
 
