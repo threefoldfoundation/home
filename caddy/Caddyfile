@@ -1,6 +1,21 @@
+{
+    log stdout
+}
 
 info.threefold.io:443, wiki.threefold.io:443 {
     tls self_signed
+    log stdout
+    proxy / 127.0.0.1:3002 {    
+        policy header X-My-Header
+        transparent
+        insecure_skip_verify
+    }
+
+}
+
+sdk.threefold.io:443 {
+    tls self_signed
+    log stdout
     proxy / 127.0.0.1:3001 {    
         policy header X-My-Header
         transparent
@@ -8,5 +23,12 @@ info.threefold.io:443, wiki.threefold.io:443 {
     }
 
 }
+
+www.threefold.io:443 {
+    tls self_signed
+    log stdout
+    root {$HOME}/threefold/websites/www_threefold/html
+}
+
 
 #https://mywiki.threefold.io/
