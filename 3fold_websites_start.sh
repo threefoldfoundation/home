@@ -33,7 +33,7 @@ cd $HOME/threefold/websites
 
 if [ -d www_threefold ]; then
     cd www_threefold
-    git checkout . -f
+    # git checkout . -f
     git pull
     cd ..
 else
@@ -42,7 +42,7 @@ fi
 
 if [ -d info_tfgridsdk ]; then
     cd info_tfgridsdk
-    git checkout . -f
+    # git checkout . -f
     git pull
     cd ..
 else
@@ -52,7 +52,7 @@ fi
 
 if [ -d info_threefold ]; then
     cd info_threefold
-    git checkout . -f
+    # git checkout . -f
     git pull
     cd ..
 else
@@ -61,7 +61,7 @@ fi
 
 if [ -d home ]; then
     cd home
-    git checkout . -f
+    # git checkout . -f
     git pull
     cd ..
 else
@@ -96,6 +96,7 @@ tmux new-session -d -s "caddy" $TMPDIR/caddy.sh
 sudo sed -i .back "/threefold/d" /private/etc/hosts
 #now add the required domain names
 sudo -- sh -c -e "echo 127.0.0.1 info.threefold.io >> /private/etc/hosts";
+sudo -- sh -c -e "echo 127.0.0.1 wiki.threefold.io >> /private/etc/hosts";
 sudo -- sh -c -e "echo 127.0.0.1 www.threefold.io >> /private/etc/hosts";
 sudo -- sh -c -e "echo 127.0.0.1 sdk.threefold.io >> /private/etc/hosts";
 
