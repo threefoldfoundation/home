@@ -1,0 +1,9 @@
+localhost {    
+    encode zstd gzip
+    templates
+    file_server browse
+}
+
+*.threefold.io:80 {
+	reverse_proxy 127.0.0.1:3001
+}
