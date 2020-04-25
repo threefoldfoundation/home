@@ -1,9 +1,12 @@
-localhost {    
-    encode zstd gzip
-    templates
-    file_server browse
+
+info.threefold.io:443, wiki.threefold.io:443 {
+    tls self_signed
+    proxy / 127.0.0.1:3001 {    
+        policy header X-My-Header
+        transparent
+        insecure_skip_verify
+    }
+
 }
 
-*.threefold.io:80 {
-	reverse_proxy 127.0.0.1:3001
-}
+#https://mywiki.threefold.io/

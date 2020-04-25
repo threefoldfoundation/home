@@ -1,0 +1,22 @@
+localhost {    
+    encode zstd gzip
+    templates
+    file_server browse
+}
+
+mywiki.threefold.io:80 {
+	reverse_proxy 127.0.0.1:3001
+}
+
+{
+    apps{
+        http{
+            servers{
+                automatic_https{
+                    disable: true,
+                    disable_redirects: true,
+                }
+            }
+        }
+    }
+}
