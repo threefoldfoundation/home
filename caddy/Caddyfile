@@ -13,7 +13,7 @@ info.threefold.io:443, wiki.threefold.io:443 {
 
 }
 
-sdk.threefold.io:443 {
+sdk.threefold.io:443,  {
     tls self_signed
     log stdout
     proxy / 127.0.0.1:3001 {    
