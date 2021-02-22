@@ -4,11 +4,13 @@
 we believe that content is like a product and as such we have chosen to use Github to work on all our content.
 All our repo's are open and opensource and you can contribute and leave issues so everyone can constantly improve.
 
-releases
+## releases
 
 - [2.5.2](): deadline 27 Feb
 - [2.5.3](): deadline 6 March
 - [2.9](): deadline end March (everything in here needs to be done before the launch of TF3.0), many items will be moved back to previous deadlines
+
+For  [contribution guidlines see](contribution/)
 
 
 ## DISCLAIMER:
