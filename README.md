@@ -22,20 +22,20 @@ Can be found [here](https://github.com/orgs/threefoldfoundation/projects) along 
 
 Please free to reach out to these teams or visit their projects should you have any questions or wish to contribute.
 
-| Property | Repo | Owner |
-| --- | --- | --- |
-| ThreeFold Main Website | www_threefold_io | Team Sacha |
-| Cloud Website | www_threefold_cloud | Team Sacha |
-| Farming Website | www_threefold_farming | Team Sacha |
-| Twin Website | www_threefold_twin | Team Raj |
-| Marketplace Website | www_threefold_marketplace | Team Sacha |
-| Alliance for a Conscious Internet Website | www_conscious_internet | Team Raj |
-| ThreeFold Main Wiki | info_threefold | Team Sacha |
-| SDK | info_sdk | Team Geert |
-| Legal Wiki | info_legal | Team Sacha |
-| Cloud Wiki | info_cloud | Team Geert |
-| Twin Wiki | info_digitaltwin | Team Raj |
-| ThreeFold Data | data_threefold | Team Web |
+| Property | Type | Repo | Owner |
+| --- | --- | --- | --- |
+| ThreeFold | Website | www_threefold_io | Team Sacha |
+| ThreeFold | Wiki | info_threefold | Team Sacha |
+| Farming | Website | www_threefold_farming | Team Sacha |
+| Cloud | Website | www_threefold_cloud | Team Sacha |
+| Cloud | Wiki | info_cloud | Team Geert |
+| Marketplace | Website | www_threefold_marketplace | Team Sacha |
+| SDK | Wiki | info_sdk | Team Geert |
+| Twin | Website | www_threefold_twin | Team Raj |
+| Twin | Wiki | info_digitaltwin | Team Raj |
+| Alliance for a Conscious Internet | Website | www_conscious_internet | Team Raj |
+| Legal | Wiki | info_legal | Team Sacha |
+| ThreeFold Data | Data | data_threefold | Team Web |
 
 ## DISCLAIMER:
 
