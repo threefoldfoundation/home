@@ -24,18 +24,18 @@ Please free to reach out to these teams or visit their projects should you have 
 
 | Property | Type | Repo | Owner |
 | --- | --- | --- | --- |
-| ThreeFold | Website | www_threefold_io | Team Sacha |
-| ThreeFold | Wiki | info_threefold | Team Sacha |
-| Farming | Website | www_threefold_farming | Team Sacha |
-| Cloud | Website | www_threefold_cloud | Team Sacha |
-| Cloud | Wiki | info_cloud | Team Geert |
-| Marketplace | Website | www_threefold_marketplace | Team Sacha |
-| SDK | Wiki | info_sdk | Team Geert |
-| Twin | Website | www_threefold_twin | Team Raj |
-| Twin | Wiki | info_digitaltwin | Team Raj |
-| Alliance for a Conscious Internet | Website | www_conscious_internet | Team Raj |
-| Legal | Wiki | info_legal | Team Sacha |
-| ThreeFold Data | Data | data_threefold | Team Web |
+| ThreeFold | Website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| ThreeFold | Wiki | [info_threefold](https://github.com/threefoldfoundation/info_threefold) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| Farming | Website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| Cloud | Website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| Cloud | Wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_geert](https://github.com/orgs/threefoldfoundation/projects/57) |
+| Marketplace | Website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| SDK | Wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_geert](https://github.com/orgs/threefoldfoundation/projects/57) |
+| Twin | Website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
+| Twin | Wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
+| Alliance for a Conscious Internet | Website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
+| Legal | Wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
+| ThreeFold Data | Data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 
 ## DISCLAIMER:
 
