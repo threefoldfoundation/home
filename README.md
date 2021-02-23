@@ -33,7 +33,7 @@ Please free to reach out to these teams or visit their projects should you have 
 | SDK | Wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_geert](https://github.com/orgs/threefoldfoundation/projects/57) |
 | Twin | Website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
 | Twin | Wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
-| Alliance for a Conscious Internet | Website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_raj](https://github.com/orgs/threefoldfoundation/projects/53) |
+| Alliance for a Conscious Internet | Website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 | Legal | Wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_sacha](https://github.com/orgs/threefoldfoundation/projects/52) |
 | ThreeFold Data | Data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 
