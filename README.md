@@ -27,16 +27,18 @@ Please feel free to reach out to these teams or visit their projects should you 
 |--- |--- |--- |--- |
 | ThreeFold Main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | ThreeFold Main | wiki | [info_threefold](https://github.com/threefoldfoundation/info_threefold) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
+| ThreeFold Tech | website | [www_threefold_tech](https://github.com/threefoldtech/www_threefold_tech) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
+| ThreeFold Tech | wiki | [info_tftech](https://github.com/threefoldtech/info_tftech) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) |
+| ThreeFold Manual | wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) |
+| ThreeFold Marketplace | website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | Cloud | website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | Cloud | wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) |
-| Marketplace | website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
-| ThreeFold Manual | wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) |
 | DigitalTwin | website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) |
 | DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) |
-| Alliance for a Conscious Internet | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
+| Alliance for a Conscious Internet | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 
 ## DISCLAIMER:
 
