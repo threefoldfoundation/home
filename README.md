@@ -6,9 +6,12 @@ All our repos are open and opensource and you can contribute and leave issues so
 
 ## Releases
 
-- [2.5.2](): deadline 27 Feb
-- [2.5.3](): deadline 6 March
-- [2.9](): deadline end of March (everything in here needs to be done before the launch of TF3.0), many items will be moved back to previous deadlines
+- [2.5.2](https://github.com/orgs/threefoldfoundation/projects/48): deadline 27 Feb
+- [2.5.3](https://github.com/orgs/threefoldfoundation/projects/51): deadline 6 March
+- [2.6](https://github.com/orgs/threefoldfoundation/projects/58) : deadline 13 March
+- [2.6.1](https://github.com/orgs/threefoldfoundation/projects/59) : deadline 21 March
+- [2.7](https://github.com/orgs/threefoldfoundation/projects/60) : deadline 28 March
+- [2.9](https://github.com/orgs/threefoldfoundation/projects/49): deadline TBD (everything in here needs to be done before the launch of TF3.0), many items will be moved back to previous deadlines
 
 Our releases can be found [HERE](https://github.com/orgs/threefoldfoundation/projects).
 
