@@ -39,8 +39,6 @@ Please feel free to reach out to these teams or visit their projects should you 
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
 | Alliance for a Conscious Internet | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) |
-| BetterToken | website | [www_bettertoken.com](https://github.com/BetterToken/www_bettertoken.com) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
-| BetterToken | wiki | [info_bettertoken](https://github.com/BetterToken/info_bettertoken) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 
 ## DISCLAIMER:
 
