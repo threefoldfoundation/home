@@ -22,8 +22,8 @@ Can be found [HERE](https://github.com/orgs/threefoldfoundation/projects) along 
 
 Please feel free to reach out to these teams or visit their projects should you have any questions or wish to contribute.
 
-| Property | Type | Repo | Owner |
-| --- | --- | --- | --- |
+|Property |Type |Repo |Owner |
+|--- |--- |--- |--- |
 | ThreeFold Main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | ThreeFold Main | wiki | [info_threefold](https://github.com/threefoldfoundation/info_threefold) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
 | Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) |
