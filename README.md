@@ -32,12 +32,19 @@ Please feel free to reach out to these teams or visit their projects should you 
 | Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/farming](https://threefold.io/farming) |
 | Cloud | website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/cloud](https://threefold.io/cloud) |
 | Cloud | wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/cloud](https://threefold.io/info/cloud) |
-| DigitalTwin | website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [mydigitaltwin.io](https://mydigitaltwin.io) |
-| DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [info.mydigitaltwin.io](https://info.mydigitaltwin.io) |
 | Alliance for a Conscious Internet | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/aci](https://threefold.io/aci) |
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
 | ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | Examplesite | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [examplesite.threefold.io](https://examplesite.threefold.io/) |
+
+## Related Projects
+
+|Property |Type |Repo |Owner | DNS |
+|--- |--- |--- |--- |--- |
+| DigitalTwin | website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [mydigitaltwin.io](https://mydigitaltwin.io) |
+| DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [info.mydigitaltwin.io](https://info.mydigitaltwin.io) |
+| ThreeFold Tech | website | [www_threefold_tech](https://github.com/threefoldtech/www_threefold_tech) | [front_end](https://github.com/orgs/threefoldtech/teams/front-end) | [threefold.tech](https://threefold.tech) |
+| ThreeFold Tech | wiki | [info_tftech](https://github.com/threefoldtech/info_tftech) | [documentation](https://github.com/orgs/threefoldtech/teams/documentation) | [info.threefold.tech](https://info.threefold.tech/) |
 
 ## DISCLAIMER:
 
