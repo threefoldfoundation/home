@@ -23,7 +23,7 @@ Can be found [HERE](https://github.com/orgs/threefoldfoundation/projects) along 
 
 Please feel free to reach out to these teams or visit their projects should you have any questions or wish to contribute.
 
-|Property |Type |Repo |Owner | DNS |
+|Property |Type |Repo |Team | DNS |
 |--- |--- |--- |--- |--- |
 | ThreeFold Main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io](https://threefold.io/) |
 | ThreeFold Main | wiki | [info_foundation](https://github.com/threefoldfoundation/info_foundation) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/threefold](https://threefold.io/info/threefold) |
@@ -39,7 +39,7 @@ Please feel free to reach out to these teams or visit their projects should you 
 
 ## Related Projects
 
-|Property |Type |Repo |Owner | DNS |
+|Property |Type |Repo |Team | DNS |
 |--- |--- |--- |--- |--- |
 | DigitalTwin | website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [mydigitaltwin.io](https://mydigitaltwin.io) |
 | DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [info.mydigitaltwin.io](https://info.mydigitaltwin.io) |
