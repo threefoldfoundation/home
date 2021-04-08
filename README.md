@@ -22,7 +22,7 @@ For [contribution guidelines see](contribution/)
 
 Can be found [HERE](https://github.com/orgs/threefoldfoundation/projects) along with responsibilities.
 
-## Main Repos & Owners
+## Main Repos & Teams
 
 Please feel free to reach out to these teams or visit their projects should you have any questions or wish to contribute.
 
