@@ -39,6 +39,7 @@ Please feel free to reach out to these teams or visit their projects should you 
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
 | ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | Examplesite | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [examplesite.threefold.io](https://examplesite.threefold.io/) |
+| TokenStats | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [nbabenko](https://github.com/nbabenko) | [tokenstats.threefoldtoken.com](https://tokenstats.threefoldtoken.com) |
 
 ## Related Projects
 
@@ -48,6 +49,10 @@ Please feel free to reach out to these teams or visit their projects should you 
 | DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [info.mydigitaltwin.io](https://info.mydigitaltwin.io) |
 | ThreeFold Tech | website | [www_threefold_tech](https://github.com/threefoldtech/www_threefold_tech) | [front_end](https://github.com/orgs/threefoldtech/teams/front-end) | [threefold.tech](https://threefold.tech) |
 | ThreeFold Tech | wiki | [info_tftech](https://github.com/threefoldtech/info_tftech) | [documentation](https://github.com/orgs/threefoldtech/teams/documentation) | [info.threefold.tech](https://info.threefold.tech/) |
+| FreeFlow Nation | website | [www_freeflownation](https://github.com/freeflownation/www_freeflownation) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [freeflownation.org](https://freeflownation.org/) |
+| Mazraa | website | [www_mazraa_io](https://github.com/mazraa/www_mazraa_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [www.mazraa.io](https://www.mazraa.io) |
+| BetterToken | website | [www_bettertoken.com](https://github.com/BetterToken/www_bettertoken.com) | [VonSub](https://github.com/VonSub) | [bettertoken.com](https://bettertoken.com) |
+| BetterToken | wiki | [info_bettertoken](https://github.com/BetterToken/info_bettertoken) | [VonSub](https://github.com/VonSub) | [wiki.bettertoken.com](https://wiki.bettertoken.com/) |
 
 ## DISCLAIMER:
 
