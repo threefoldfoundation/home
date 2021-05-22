@@ -12,7 +12,7 @@ mkdir -p ~/code
 cd ~/code
 
 echo "check ~/code/www_config_private exists"
-if ! [ -d "~/code/www_config_private" ]; then
+if [ ! -d "~/code/www_config_private" ]; then
   echo "need to clone"
   git clone git@github.com:threefoldfoundation/www_config_private.git
 fi
