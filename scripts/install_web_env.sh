@@ -10,7 +10,12 @@ fi
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/crystaluniverse/publishtools/development/scripts/install.sh)"
 mkdir -p ~/code
 cd ~/code
-git clone git@github.com:threefoldfoundation/www_config_private.git
+
+if! [ -d "~/code/www_config_private" ] 
+then
+  git clone git@github.com:threefoldfoundation/www_config_private.git
+fi
+
 cd www_config_private
 # go into wiki only dir
 cd wiki_only
