@@ -11,7 +11,7 @@ fi
 mkdir -p ~/code
 cd ~/code
 
-if! [ -d "~/code/www_config_private" ] 
+if ! [ -d "~/code/www_config_private" ] 
 then
   git clone git@github.com:threefoldfoundation/www_config_private.git
 fi
