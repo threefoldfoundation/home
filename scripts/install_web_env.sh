@@ -14,6 +14,6 @@ git clone git@github.com:threefoldfoundation/www_config_private.git
 cd www_config_private
 # go into wiki only dir
 cd wiki_only
-publishtools install
+publishtools develop
 
 
