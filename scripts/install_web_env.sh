@@ -24,6 +24,9 @@ fi
 cd www_config_private
 # go into wiki only dir
 cd wiki_only
+
+rm -f /opt/homebrew/bin/publishtools
+rm -f /usr/local/bin/publishtools
 publishtools develop
 
 
