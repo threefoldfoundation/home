@@ -39,7 +39,6 @@ Please feel free to reach out to these teams or visit their projects should you 
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
 | ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | Examplesite | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [examplesite.threefold.io](https://examplesite.threefold.io/) |
-| TokenStats | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [nbabenko](https://github.com/nbabenko) | [tokenstats.threefoldtoken.com](https://tokenstats.threefoldtoken.com) |
 
 ## Related Projects
 
