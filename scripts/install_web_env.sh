@@ -27,6 +27,8 @@ cd wiki_only
 
 rm -f /opt/homebrew/bin/publishtools
 rm -f /usr/local/bin/publishtools
+
+publishtools staticfiles update
 publishtools develop
 
 
