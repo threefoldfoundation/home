@@ -9,6 +9,12 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
   eval "$(/opt/homebrew/bin/brew shellenv)"  
   fi
 fi
+
+
+rm -f /opt/homebrew/bin/publishtools
+rm -f /usr/local/bin/publishtools
+
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/crystaluniverse/publishtools/development/scripts/install.sh)"
 mkdir -p ~/code
 cd ~/code
@@ -24,9 +30,6 @@ fi
 cd www_config_private
 # go into wiki only dir
 cd wiki_only
-
-rm -f /opt/homebrew/bin/publishtools
-rm -f /usr/local/bin/publishtools
 
 publishtools staticfiles update
 publishtools develop
