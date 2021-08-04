@@ -2,9 +2,9 @@
 # Welcome to Github for the ThreeFold Foundation
 
 We believe that content is like a product and as such we have chosen to use Github to work on all our content.
-All our repos are open and opensource and you can contribute and leave issues so everyone can constantly improve.
+Nearly all our repos are public and opensource and you can contribute and leave issues so that we can constantly improve.
 
-## Releases
+## Releases following ThreeFold Grid development
 
 - [2.5.2](https://github.com/orgs/threefoldfoundation/projects/48): - 27 Feb
 - [2.5.3](https://github.com/orgs/threefoldfoundation/projects/51): - 6 March
@@ -28,16 +28,16 @@ Please feel free to reach out to these teams or visit their projects should you 
 
 |Property |Type |Repo |Team | DNS |
 |--- |--- |--- |--- |--- |
-| ThreeFold Main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io](https://threefold.io/) |
+| ThreeFold Main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52); [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io](https://threefold.io/) |
 | ThreeFold Main | wiki | [info_foundation](https://github.com/threefoldfoundation/info_foundation) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/threefold](https://threefold.io/info/threefold) |
 | ThreeFold Manual | wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/sdk](https://threefold.io/info/sdk#/)
-| ThreeFold Marketplace | website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/marketplace](https://threefold.io/marketplace) |
-| Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/farming](https://threefold.io/farming) |
-| Cloud | website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/cloud](https://threefold.io/cloud) |
-| Cloud | wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/cloud](https://threefold.io/info/cloud) |
+| ThreeFold Marketplace | website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52); [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/marketplace](https://threefold.io/marketplace) |
+| ThreeFold Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52); [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/farming](https://threefold.io/farming) |
+| ThreeFold Cloud | website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52); [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/cloud](https://threefold.io/cloud) |
+| ThreeFold Cloud | wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/cloud](https://threefold.io/info/cloud) |
 | ACI | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/aci](https://threefold.io/aci) |
 | ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
-| ThreeFold Data | data | [data_threefold](https://github.com/threefoldfoundation/data_threefold) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
+| ThreeFold Data | data | [threefold_data](https://github.com/threefoldfoundation/threefold_data) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | Examplesite | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [examplesite.threefold.io](https://examplesite.threefold.io/) |
 
 ## Related Projects
