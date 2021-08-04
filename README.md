@@ -53,7 +53,7 @@ Please feel free to reach out to these teams or visit their projects should you 
 
 ## Contribution
 
-For [contribution guidelines see](contribution/)
+Refer here for [contribution guidelines](contribution/)
 
 ## DISCLAIMER:
 
