@@ -16,8 +16,6 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 - [2.8.1](https://github.com/orgs/threefoldfoundation/projects/63) : - 18 April
 - [2.9](https://github.com/orgs/threefoldfoundation/projects/49) : - TBD (everything in here needs to be done before the launch of TF3.0), many items will be moved back to previous deadlines
 
-For [contribution guidelines see](contribution/)
-
 ## Teams
 
 Can be found [HERE](https://github.com/orgs/threefoldfoundation/projects) along with responsibilities.
@@ -52,6 +50,10 @@ Please feel free to reach out to these teams or visit their projects should you 
 | Mazraa | website | [www_mazraa_io](https://github.com/mazraa/www_mazraa_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [www.mazraa.io](https://www.mazraa.io) |
 | BetterToken | website | [www_bettertoken.com](https://github.com/BetterToken/www_bettertoken.com) | [VonSub](https://github.com/VonSub) | [bettertoken.com](https://bettertoken.com) |
 | BetterToken | wiki | [info_bettertoken](https://github.com/BetterToken/info_bettertoken) | [VonSub](https://github.com/VonSub) | [wiki.bettertoken.com](https://wiki.bettertoken.com/) |
+
+## Contribution
+
+For [contribution guidelines see](contribution/)
 
 ## DISCLAIMER:
 
