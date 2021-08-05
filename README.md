@@ -63,7 +63,7 @@ Please feel free to reach out to these teams or visit their projects should you 
 
 Refer here for [contribution guidelines](contribution/)
 
-## Disclaimer:
+## Disclaimer
 
 - All code, information, tools & knowledge found in [TF Foundation's github account](github.com/threefoldfoundation) or otherwise produced by ThreeFold Foundation or any person or party related to it is delivered "as is", see [Disclaimer](https://github.com/threefoldfoundation/legal/blob/master/src/disclaimer.md)
 - Everyone is welcome to contribute, whatever you contribute will follow the licenses as mentioned in relevant repository
