@@ -18,6 +18,12 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 
 ## Teams
 
+- Web development : [team] | [team board](https://github.com/orgs/threefoldfoundation/projects/54)
+- Promotion: [team] | [team board](https://github.com/orgs/threefoldfoundation/projects/52)
+- Technical Documentation: [team] | [team board](https://github.com/orgs/threefoldfoundation/projects/57)
+- Hiring:[team] | [team board](https://github.com/orgs/threefoldfoundation/projects/76)
+- Partners Operations: [team]() | [team board](https://github.com/orgs/threefoldfoundation/projects/75)
+
 Can be found [HERE](https://github.com/orgs/threefoldfoundation/projects) along with responsibilities.
 
 ## Main Repos & Teams
