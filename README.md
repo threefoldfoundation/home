@@ -6,6 +6,8 @@ ThreeFold is the engine for a planet positive and data sovereign Internet. A col
 We believe that content is like a product and as such we have chosen to use Github to work on all our content.
 Nearly all our repos are public and opensource and you can contribute and leave issues so that we can constantly improve.
 
+<br/>
+
 ## Releases following ThreeFold Grid development
 
 - [2.5.2](https://github.com/orgs/threefoldfoundation/projects/48): - 27 Feb
@@ -20,6 +22,9 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 
 > We've moved to weekly sprints per circles (aka teams), you can follow each team's tasks and progress [HERE](https://github.com/orgs/threefoldfoundation/projects)
 
+<br/>
+
+
 ## Teams
 
 - Web development : [team](https://github.com/orgs/threefoldfoundation/teams/web_team) | [team board](https://github.com/orgs/threefoldfoundation/projects/54)
@@ -27,6 +32,8 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 - Technical Documentation: [team](https://github.com/orgs/threefoldfoundation/teams/tech_documentation) | [team board](https://github.com/orgs/threefoldfoundation/projects/57)
 - Hiring:[team](https://github.com/orgs/threefoldfoundation/teams/hiring) | [team board](https://github.com/orgs/threefoldfoundation/projects/76)
 - Partners Operations: [team](https://github.com/orgs/threefoldfoundation/teams/partners_operations/discussions) | [team board](https://github.com/orgs/threefoldfoundation/projects/75)
+
+<br/>
 
 ## Main Repos
 
@@ -59,9 +66,13 @@ Please feel free to reach out to these teams or visit their projects should you 
 | BetterToken | website | [www_bettertoken.com](https://github.com/BetterToken/www_bettertoken.com) | [VonSub](https://github.com/VonSub) | [bettertoken.com](https://bettertoken.com) |
 | BetterToken | wiki | [info_bettertoken](https://github.com/BetterToken/info_bettertoken) | [VonSub](https://github.com/VonSub) | [wiki.bettertoken.com](https://wiki.bettertoken.com/) |
 
+<br/>
+
 ## Contribution
 
 Please see our [contribution guidelines](contribution/)
+
+<br/>
 
 ## Disclaimer
 
