@@ -1,6 +1,6 @@
 # Get started with Gitpod
 
-To easily collaborate on ThreeFold's websites and wikis use **[Gitpod](https://www.gitpod.io).
+To easily collaborate on ThreeFold's websites and wikis use **[Gitpod](https://www.gitpod.io)**.
 
 ## Here is How
 
@@ -16,8 +16,14 @@ https://www.gitpod.io/docs/browser-extension/
 
 4. You should see a green Gitpod button on the top right. Click on it!
 
+![](img/gitpod_2.jpg)
+
 5. You now see a dashboard that looks just like VSCode because it is. You can make changes from there the same way you've work on VSCode tool before (if you have).
 
+![](img/gitpod_3.jpg)
+
 6. Cool part - you can now right away see the changes you made (without pushing them) in your browser by **Cmnd + Click** (Mac) on url that has been automatically generated in terminal on the bottom of the dashboard.
+
+![](img/gitpod_4.jpg)
 
 7. Now Go explore & contribute! 🙂
