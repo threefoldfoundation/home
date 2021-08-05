@@ -1,6 +1,8 @@
 
 # Welcome to Github for the ThreeFold Foundation
 
+ThreeFold is the engine for a planet positive and data sovereign Internet. A collaborative movement of people who care about a better future.
+
 We believe that content is like a product and as such we have chosen to use Github to work on all our content.
 Nearly all our repos are public and opensource and you can contribute and leave issues so that we can constantly improve.
 
