@@ -61,7 +61,7 @@ Please feel free to reach out to these teams or visit their projects should you 
 
 ## Contribution
 
-Refer here for [contribution guidelines](contribution/)
+Please see our [contribution guidelines](contribution/)
 
 ## Disclaimer
 
