@@ -1,6 +1,6 @@
-
-
 # Contribution
 
-- please make sure our [contribution rules are understood](https://github.com/threefoldtech/home/blob/master/contribution/development_process.md)
+Find our work and development process [HERE](https://github.com/threefoldtech/home/blob/master/contribution/development_process.md) and follow it throughly when contributing to our projects.
+
+We appreciate your involvement and support!
 
