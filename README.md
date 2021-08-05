@@ -1,5 +1,5 @@
 
-# Welcome to Github for the ThreeFold Foundation
+# Welcome to the ThreeFold Foundation
 
 ThreeFold is the engine for a planet positive and data sovereign Internet. A collaborative movement of people who care about a better future.
 
