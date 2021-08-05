@@ -4,7 +4,7 @@ To easily collaborate on ThreeFold's websites and wikis use **[Gitpod](https://w
 
 ## Here is How
 
-1. Add yourself to the team through **[this link](https://gitpod.io/plans?teamid=e38e1c1a-4204-4549-bd78-22c97acfc277)**.
+1. Add yourself to the team through **[HERE](https://gitpod.io/plans?teamid=e38e1c1a-4204-4549-bd78-22c97acfc277)**.
 
 <br/>
 
