@@ -12,7 +12,7 @@ https://www.gitpod.io/docs/browser-extension/
 
 3. Go to any ThreeFold's website or wiki repo. Make sure you are on **development** branch (always)!!
 
-![](img/)
+![](img/gitpod_1.jpg)
 
 4. You should see a green Gitpod button on the top right. Click on it!
 
