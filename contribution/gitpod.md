@@ -12,7 +12,7 @@ To easily collaborate on ThreeFold's websites and wikis use **[Gitpod](https://w
 
 <br/>
 
-3. Go to any ThreeFold's website or wiki repo. Make sure you are on **development** branch (always)!!
+3. Go to any ThreeFold's website or wiki repo. Make sure you log your work on a newly created branch that describes your contribution (always)!!
 
 <br/>
 
