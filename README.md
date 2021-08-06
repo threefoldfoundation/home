@@ -18,7 +18,6 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 - [2.7.1](https://github.com/orgs/threefoldfoundation/projects/61) : - 4 April
 - [2.8](https://github.com/orgs/threefoldfoundation/projects/62) : - 11 April
 - [2.8.1](https://github.com/orgs/threefoldfoundation/projects/63) : - 18 April
-- [2.9](https://github.com/orgs/threefoldfoundation/projects/49) : - TBD (everything in here needs to be done before the launch of TF3.0), many items will be moved back to previous deadlines
 
 > We've moved to weekly sprints per circles (aka teams), you can follow each team's tasks and progress [HERE](https://github.com/orgs/threefoldfoundation/projects)
 
