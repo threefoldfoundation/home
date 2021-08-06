@@ -1,4 +1,4 @@
-![](./threefold_foudnation.png)
+![img](./threefold_foundation.png)
 
 # Welcome to the ThreeFold Foundation
 
