@@ -48,11 +48,11 @@ Feel free to visit project repos and/or reach out to respective team should you 
 | ThreeFold Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/farming](https://threefold.io/farming) |
 | ThreeFold Cloud | website | [www_threefold_cloud](https://github.com/threefoldfoundation/www_threefold_cloud) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/cloud](https://threefold.io/cloud) |
 | ThreeFold Cloud | wiki | [info_cloud](https://github.com/threefoldfoundation/info_cloud) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/cloud](https://threefold.io/info/cloud) |
+| ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
+| ThreeFold Data | data | [threefold_data](https://github.com/threefoldfoundation/threefold_data) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | DigitalTwin | website | [www_threefold_twin](https://github.com/threefoldfoundation/www_threefold_twin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [mydigitaltwin.io](https://mydigitaltwin.io) |
 | DigitalTwin | wiki | [info_digitaltwin](https://github.com/threefoldfoundation/info_digitaltwin) | [team_digitaltwin](https://github.com/orgs/threefoldfoundation/projects/53) | [info.mydigitaltwin.io](https://info.mydigitaltwin.io) |
 | Alliance for a Conscious Internet | website | [www_conscious_internet](https://github.com/threefoldfoundation/www_conscious_internet) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [www.consciousinternet.org](https://www.consciousinternet.org) |
-| ThreeFold Legal | wiki | [info_legal](https://github.com/threefoldfoundation/info_legal) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/legal](https://threefold.io/info/legal) |
-| ThreeFold Data | data | [threefold_data](https://github.com/threefoldfoundation/threefold_data) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | - | 
 | Examplesite | data | [www_examplesite](https://github.com/threefoldfoundation/www_examplesite) | [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [examplesite.threefold.io](https://examplesite.threefold.io/) |
 
 ## Related Projects
