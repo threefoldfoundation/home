@@ -41,8 +41,8 @@ Feel free to visit project repos and/or reach out to respective team should you 
 
 |Project |Type |Repo |Team | DNS |
 |--- |--- |--- |--- |--- |
-| ThreeFold main | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io](https://threefold.io/) |
-| ThreeFold main | wiki | [info_foundation](https://github.com/threefoldfoundation/info_foundation) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/threefold](https://threefold.io/info/threefold) |
+| ThreeFold | website | [www_threefold_io](https://github.com/threefoldfoundation/www_threefold_io) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io](https://threefold.io/) |
+| ThreeFold | wiki | [info_foundation](https://github.com/threefoldfoundation/info_foundation) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) | [threefold.io/info/threefold](https://threefold.io/info/threefold) |
 | ThreeFold Grid Manual | wiki | [info_sdk](https://github.com/threefoldfoundation/info_sdk) | [team_tech_documentation](https://github.com/orgs/threefoldfoundation/projects/57) | [threefold.io/info/sdk](https://threefold.io/info/sdk#/)
 | ThreeFold Marketplace | website | [www_threefold_marketplace](https://github.com/threefoldfoundation/www_threefold_marketplace) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/marketplace](https://threefold.io/marketplace) |
 | ThreeFold Farming | website | [www_threefold_farming](https://github.com/threefoldfoundation/www_threefold_farming) | [team_promotion](https://github.com/orgs/threefoldfoundation/projects/52) / [team_web](https://github.com/orgs/threefoldfoundation/projects/54) | [threefold.io/farming](https://threefold.io/farming) |
