@@ -29,7 +29,7 @@ We've moved to weekly sprints per circles (aka teams), you can follow each team'
 
 ## Teams
 
-- Web development : [team](https://github.com/orgs/threefoldfoundation/teams/web_team) | [team board](https://github.com/orgs/threefoldfoundation/projects/54)
+- Web development : [team](https://github.com/orgs/threefoldfoundation/teams/team_web) | [team board](https://github.com/orgs/threefoldfoundation/projects/54)
 - Promotion: [team](https://github.com/orgs/threefoldfoundation/teams/team_promotion) | [team board](https://github.com/orgs/threefoldfoundation/projects/52)
 - Technical Documentation: [team](https://github.com/orgs/threefoldfoundation/teams/tech_documentation) | [team board](https://github.com/orgs/threefoldfoundation/projects/57)
 
