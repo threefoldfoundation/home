@@ -11,21 +11,7 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 
 ## Releases following ThreeFold Grid development
 
-- [2.5.2](https://github.com/orgs/threefoldfoundation/projects/48): - 27 February
-- [2.5.3](https://github.com/orgs/threefoldfoundation/projects/51): - 6 March
-- [2.6](https://github.com/orgs/threefoldfoundation/projects/58) : - 13 March
-- [2.6.1](https://github.com/orgs/threefoldfoundation/projects/59) : - 21 March
-- [2.7](https://github.com/orgs/threefoldfoundation/projects/60) : - 28 March
-- [2.7.1](https://github.com/orgs/threefoldfoundation/projects/61) : - 4 April
-- [2.8](https://github.com/orgs/threefoldfoundation/projects/62) : - 11 April
-- [2.8.1](https://github.com/orgs/threefoldfoundation/projects/63) : - 18 April
-
-<br/>
-
 We've moved to weekly sprints per circles (aka teams), you can follow each team's tasks and progress [HERE](https://github.com/orgs/threefoldfoundation/projects)
-
-<br/>
-
 
 ## Teams
 
