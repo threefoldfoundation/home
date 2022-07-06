@@ -35,6 +35,10 @@ We've moved to weekly sprints per circles (aka teams), you can follow each team'
 
 <br/>
 
+## List of Web Presence and Web Services
+
+You can find the list of ThreeFold Websites and related projects on [this spreadsheet document](https://docs.google.com/spreadsheets/d/1RsCcmXt2ds4wWK-Tdp6KokyoGl-dEW96W84O89eiE4U/edit?usp=sharing)
+
 ## ThreeFold Foundation's main project repos
 
 Feel free to visit project repos and/or reach out to respective team should you have any questions or wish to contribute.
