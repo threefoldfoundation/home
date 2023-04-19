@@ -13,12 +13,6 @@ Nearly all our repos are public and opensource and you can contribute and leave 
 
 We've moved to weekly sprints per circles (aka teams), you can follow each team's tasks and progress [HERE](https://github.com/orgs/threefoldfoundation/projects)
 
-## Teams
-
-- Web development : [team](https://github.com/orgs/threefoldfoundation/teams/team_web) | [team board](https://github.com/orgs/threefoldfoundation/projects/54)
-- Promotion: [team](https://github.com/orgs/threefoldfoundation/teams/team_promotion) | [team board](https://github.com/orgs/threefoldfoundation/projects/52)
-- Technical Documentation: [team](https://github.com/orgs/threefoldfoundation/teams/tech_documentation) | [team board](https://github.com/orgs/threefoldfoundation/projects/57)
-
 <br/>
 
 ## List of Web Presence and Web Services
